@@ -1,0 +1,11 @@
+API e um lugar para disponibilizar recursos e/ou funcionalidades
+
+1. Objetivo - Criar um api que disponibiliza a consulta, criacao e exclusao de livros
+2. URL base - localhost.com
+3. Endpoint  - 
+    localhost/livros (get)
+    localhost/livros (post)
+    localhost/livros/id (get com id)
+    localhost/livros/id (put)
+    localhost/livros/id (delete)
+4. Quais recursos - Livros
